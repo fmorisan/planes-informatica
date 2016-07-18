@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Plan Lic. en Sistemas</title>
+
+    <link rel="stylesheet" href="css/style.css">
+
+
+    <script src="js/go.js"></script>
+    <script src="js/DiagramFactory.js"></script>
+    <script src="js/PlanSistemas.js"></script>
+
+</head>
+<body>
+
+    <div id="myDiagram"></div>
+
+    <script>
+        const diagramFactory = new DiagramFactory(go);
+        const planSistemas = new PlanSistemas(diagramFactory);
+    </script>
+
+
+</body>
+</html>
