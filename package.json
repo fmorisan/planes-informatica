@@ -1,0 +1,30 @@
+{
+  "name": "planes-informatica",
+  "version": "1.0.0",
+  "description": "Presentación en grafo de correlativas del plan de estudio para la distintas carreras de la Facultad de Informatica.",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.2",
+    "jquery": "^2.2.4",
+    "tether": "^1.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matias-pierobon/planes-informatica.git"
+  },
+  "keywords": [
+    "unlp",
+    "info",
+    "plan-2015"
+  ],
+  "author": "Matías Pierobón Marcos <matias.pierobonm@gmail.com> (https://matias-pierobon.github.io/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/matias-pierobon/planes-informatica/issues"
+  },
+  "homepage": "https://github.com/matias-pierobon/planes-informatica#readme"
+}
